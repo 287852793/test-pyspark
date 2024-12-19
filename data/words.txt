@@ -1,0 +1,8 @@
+hello java
+hello hadoop
+hello java hadoop
+
+java hadoop
+java hadoop
+hadoop java
+hello java
